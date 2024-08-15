@@ -1,0 +1,49 @@
+.lets-design-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: roboto;
+  margin-top: 20px;
+}
+
+.lets-design-h1 {
+  font-size: 46px;
+  margin-bottom: 0px;
+}
+
+.lets-design-p {
+  width: 35rem;
+  font-family: roboto;
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.email-input-div {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.email-input {
+  padding: 10px;
+  width: Calc(100% * 2 / 3);
+  border-color: #afafaf;
+  color: #afafaf;
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.contact-me-btn {
+  background-color: #ed6f15;
+  color: white;
+  height: 35px;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 10px 30px;
+  width: Calc(100% * 0.9 / 3);
+}

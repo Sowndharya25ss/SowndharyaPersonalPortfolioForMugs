@@ -1,0 +1,41 @@
+.about-div {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: roboto;
+  width: 100%;
+}
+
+.about-h1 {
+  font-size: 46px;
+}
+.about-p {
+  width: 30rem;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 10px;
+  padding-top: 0px;
+  line-height: 1.4;
+}
+
+.meter-label {
+  margin-top: 15px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.meters-div {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0px;
+  align-self: flex-start;
+}
+
+.meter {
+  height: 30px;
+  width: 98%;
+}

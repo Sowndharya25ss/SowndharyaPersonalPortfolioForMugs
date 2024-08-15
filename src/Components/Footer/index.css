@@ -1,0 +1,28 @@
+.footer-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+  width: 100%;
+  padding-top: 2rem;
+}
+
+.final-div {
+  background-color: #545454;
+  margin-top: 2rem;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-weight: 400;
+  line-height: 31.5px;
+  letter-spacing: 3%;
+}
+
+.final-div-p {
+  color: #fff;
+}
+
+.final-div-span {
+  color: #fd6f00;
+}

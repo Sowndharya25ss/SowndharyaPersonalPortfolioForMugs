@@ -1,0 +1,67 @@
+* {
+  font-family: roboto;
+}
+
+.home-div {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.home-description {
+  width: 30rem;
+}
+
+.home-p {
+  font-weight: 500;
+  margin: 5px;
+  padding: 0px;
+  font-size: 18px;
+}
+
+.home-h2-orange {
+  color: #ed6f15;
+  font-weight: 500;
+  margin: 5px;
+  padding: 0px;
+}
+
+.home-h1-bold {
+  font-weight: 1000;
+  padding: 0px;
+  margin: 0px;
+  font-size: 70px;
+  letter-spacing: 0px;
+  line-height: 1;
+}
+.home-des-p {
+  font-family: roboto;
+  text-align: justify;
+}
+
+.btn-hire-me {
+  background-color: #ed6f15;
+  color: white;
+  height: 35px;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px 30px;
+}
+
+.profile-logo {
+  height: 25rem;
+}
+
+.icon-div {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.icon {
+  height: 32.48px;
+  width: 32.28px;
+  margin: 5px 10px;
+}
